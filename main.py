@@ -1,5 +1,5 @@
 from random import randint
-from a_star import AStar, MinTurns, ShortestRoute
+from a_star import MinTurns, ShortestRoute
 
 
 def make_maze_line(size):
