@@ -1,5 +1,7 @@
 # a_star
 
+This code is up for a [code review](https://codereview.stackexchange.com/questions/208311/python-a-star-with-fewest-turns-and-shortest-path-variations) on Stack Exchange.
+
 Variations on A Star algorithm for fewest turns and shortest route.
 
 - MinTurns
